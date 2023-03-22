@@ -1,0 +1,7 @@
+class clasa{
+	public void print()
+	{
+		System.out.println("Some text");
+		System.out.println("Random");
+	}
+}
